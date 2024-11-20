@@ -32,11 +32,4 @@ A comprehensive online platform developed to enhance the Jordanian parliamentary
 ## 📖 About the Project  
 This platform simplifies the electoral process for voters and candidates while promoting transparency and engagement. It serves as a one-stop solution for voter registration, campaign management, and election-related services.  
 
----
 
-### 🧑‍🤝‍🧑 Team Collaboration  
-This project was developed as a team, allowing us to apply real-world problem-solving and software development techniques learned at **Orange Coding Academy**.  
-
----  
-
-> **🎯 Ready to contribute?** Feel free to fork the repository, open issues, or suggest enhancements!
